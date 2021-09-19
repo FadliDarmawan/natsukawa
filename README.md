@@ -8,4 +8,22 @@
 [![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/natsukawa)](https://repl.it/github/FadliDarmawan/natsukawa)
 
 # Natsukawa
-a
+Natsukawa bot adalah versi simple dari Haruno Bot, Natsukawa dan Haruno bot bergerak di bahasa Nodejs dan menggunakan base Nurutomo/wabot-aq.
+Natsukawa bot dapat dijalankan pada: replit, heroku, termux, RDP/VPS/windows, dan mungkin lainnya.
+
+Natsukawa saya rancang untuk hanya fitur yang common use atau sering terpakai seperti downloader, brainly, translate dll.
+
+# Termux
+```
+apt install ffmpeg
+apt install imagemagick
+apt install nodejs
+apt install git
+git clone https://github.com/FadliDarmawan/natsukawa
+cd natsukawa
+npm i
+node . (option)
+````
+
+# RDP/VPS/Windows
+
