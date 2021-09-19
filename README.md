@@ -26,4 +26,23 @@ node . (option)
 ````
 
 # RDP/VPS/Windows
+* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
+* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
+* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
+* Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
+```
+git clone https://github.com/FadliDarmawan/natsukawa
+cd natsukawa
+npm i
+node . (option)
+```
+# REPLIT
+[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/natsukawa)](https://repl.it/github/FadliDarmawan/natsukawa)
+* Klik button
+* Buka console
+```
+npm i
+node . (option)
+```
+
 
